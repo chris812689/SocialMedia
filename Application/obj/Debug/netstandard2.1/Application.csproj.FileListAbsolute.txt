@@ -1,0 +1,13 @@
+C:\xampp\htdocs\TC\React\Project3.1\Application\bin\Debug\netstandard2.1\Application.deps.json
+C:\xampp\htdocs\TC\React\Project3.1\Application\bin\Debug\netstandard2.1\Application.dll
+C:\xampp\htdocs\TC\React\Project3.1\Application\bin\Debug\netstandard2.1\Application.pdb
+C:\xampp\htdocs\TC\React\Project3.1\Application\bin\Debug\netstandard2.1\Domain.dll
+C:\xampp\htdocs\TC\React\Project3.1\Application\bin\Debug\netstandard2.1\Persistence.dll
+C:\xampp\htdocs\TC\React\Project3.1\Application\bin\Debug\netstandard2.1\Domain.pdb
+C:\xampp\htdocs\TC\React\Project3.1\Application\bin\Debug\netstandard2.1\Persistence.pdb
+C:\xampp\htdocs\TC\React\Project3.1\Application\obj\Debug\netstandard2.1\Application.csprojAssemblyReference.cache
+C:\xampp\htdocs\TC\React\Project3.1\Application\obj\Debug\netstandard2.1\Application.AssemblyInfoInputs.cache
+C:\xampp\htdocs\TC\React\Project3.1\Application\obj\Debug\netstandard2.1\Application.AssemblyInfo.cs
+C:\xampp\htdocs\TC\React\Project3.1\Application\obj\Debug\netstandard2.1\Application.csproj.CopyComplete
+C:\xampp\htdocs\TC\React\Project3.1\Application\obj\Debug\netstandard2.1\Application.dll
+C:\xampp\htdocs\TC\React\Project3.1\Application\obj\Debug\netstandard2.1\Application.pdb
